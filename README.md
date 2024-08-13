@@ -1,11 +1,13 @@
 ##   Hey 👋 Dandar here, have a look around here👀
 
 
-I am learning the following languages📖:
+I am learning the following languages and tools📖:
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-89CFF0">
 <img alt="Static Badge" src="https://img.shields.io/badge/React Native-AACFF0">
 <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-ECE90A">
+<img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-DD8E0F">
+<img alt="Static Badge" src="https://img.shields.io/badge/Expo-000000">
 <br>
 <img src="https://giffiles.alphacoders.com/343/34374.gif">
 <br>
