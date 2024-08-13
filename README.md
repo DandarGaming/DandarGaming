@@ -1,4 +1,20 @@
-##   Hey 👋 Dandar here, have a look around here
+##   Hey 👋 Dandar here, have a look around here👀
+
+
+I am learning the following languages📖:
+<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Typescript-89CFF0">
+<img alt="Static Badge" src="https://img.shields.io/badge/React Native-AACFF0">
+<img alt="Static Badge" src="https://img.shields.io/badge/Javascript-ECE90A">
+<br>
+<img src="https://giffiles.alphacoders.com/343/34374.gif">
+<br>
+Languages and Tools🛠:
+<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-0F74EE">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-EE8E0F">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-0934A2">
+
 <!--
 **DandarGaming/DandarGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
