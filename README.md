@@ -1,12 +1,4 @@
-##   ########***###**## 
- ##**************## 
- ##*************#*# 
- ##***##****#**#**# 
- ###**####**##**### 
- ####****########## 
- ####********##*### 
- ######*******##**# 
- ##########******** 
+##   Hey 👋 Dandar here, have a look around here
 <!--
 **DandarGaming/DandarGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
