@@ -1,33 +1,11 @@
 ##   Hey 👋 Dandar here, have a look around here👀
 
-
-I am learning the following languages and tools📖:
-<br>
-<img alt="Static Badge" src="https://img.shields.io/badge/Typescript-89CFF0">
-<img alt="Static Badge" src="https://img.shields.io/badge/React Native-AACFF0">
-<img alt="Static Badge" src="https://img.shields.io/badge/Javascript-ECE90A">
-<img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-DD8E0F">
-<img alt="Static Badge" src="https://img.shields.io/badge/Expo-000000">
-<br>
-<img src="https://giffiles.alphacoders.com/343/34374.gif">
-<br>
 Languages and Tools🛠:
-<br>
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-0F74EE">
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-EE8E0F">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-0934A2">
 
-<!--
-**DandarGaming/DandarGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DandarGaming&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DandarGaming&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DandarGaming&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
