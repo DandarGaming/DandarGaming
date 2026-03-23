@@ -9,7 +9,7 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=DandarGaming&theme=prussian&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=DandarGaming&theme=prussian&hide_border=false" /><br/>
+      <img src="https://streak-stats.demolab.com?user=DandarGaming&theme=prussian&hide_border=false" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandarGaming&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     </td>
     <td>
