@@ -21,7 +21,7 @@
   <tr>
     <td>
       <img src="https://github-readme-stats-pi-rouge-97.vercel.app/api?username=DandarGaming&theme=prussian&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DandarGaming&theme=prussian" />
+      <img src="https://streak-stats.demolab.com?user=DandarGaming&theme=prussian" /><br/>
       <img src="https://github-readme-stats-pi-rouge-97.vercel.app/api/top-langs/?username=DandarGaming&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     </td>
     <td>
