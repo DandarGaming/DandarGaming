@@ -16,6 +16,7 @@
 ![Astro](https://img.shields.io/badge/Astro-%23BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 # 📊 GitHub Stats:
 <table>
