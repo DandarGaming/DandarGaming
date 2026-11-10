@@ -1,8 +1,14 @@
 ## Hi, I'm Dandar 👋 | Immersive Software Engineering Student • Developer 🍀
 
+
+
 # Quote:
 > *"Even at the darkest of times, finding joy and hope is all you need in being optimistic of the future.- Daniel Sukhanov"*
 
+## ☕ Support My Work
+If you enjoy my projects and would like to support my development journey, you can buy me a coffee on Ko-fi!
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dandargaming)
 # Languages and Tools 🛠:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
