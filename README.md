@@ -1,8 +1,8 @@
-## Hi, I'm Dandar 👋 | Immersive Software Engineering Student • Developer 🍀
+# Hi, I'm Dandar 👋 | Immersive Software Engineering Student • Developer 🍀
 
 
 
-# Quote:
+## Quote:
 > *"Even at the darkest of times, finding joy and hope is all you need in being optimistic of the future.- Daniel Sukhanov"*
 
 ## ☕ Support My Work
